@@ -9,7 +9,7 @@
                         <div class="header default-menu-style position-relative">
                             <div class="header__logo">
                                 <nuxt-link to="/">
-                                    <img src="/images/logo/logo-dark.png" class="img-fluid" alt="Brand Logo">
+                                    <img src="/images/logo/AriaRed2.png" class="img-fluid" alt="Brand Logo">
                                 </nuxt-link>
                             </div>
 

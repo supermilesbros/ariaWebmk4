@@ -38,7 +38,7 @@
                             <!-- brand logo -->
                             <div class="header__logo">
                                 <nuxt-link to="/resolutions">
-                                    <img src="/images/logo/AriaRedd.png" class="img-fluid light-logo" alt="Brand Logo">
+                                    <img src="/images/logo/aria-red.png" class="img-fluid light-logo" alt="Brand Logo">
                                     <img src="/images/logo/logo-dark.png" class="img-fluid dark-logo" alt="Brand Logo">
                                 </nuxt-link>
                             </div>

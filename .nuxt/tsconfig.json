@@ -113,7 +113,7 @@
         "./imports"
       ],
       "#app-manifest": [
-        "./manifest/meta/dev.json"
+        "./manifest/meta/2b66877d-e471-441b-916a-f647a2f311a5"
       ],
       "#components": [
         "./components"
@@ -157,6 +157,8 @@
     "../**/*",
     "../.config/nuxt.*",
     "./nuxt.d.ts",
+    "../node_modules/@nuxt/eslint/runtime",
+    "../node_modules/@nuxt/eslint/dist/runtime",
     "../node_modules/@nuxt/devtools/runtime",
     "../node_modules/@nuxt/devtools/dist/runtime",
     "../node_modules/@nuxt/telemetry/runtime",
@@ -168,8 +170,11 @@
     "../.data",
     "../node_modules",
     "../node_modules/nuxt/node_modules",
+    "../node_modules/@nuxt/eslint/node_modules",
     "../node_modules/@nuxt/devtools/node_modules",
     "../node_modules/@nuxt/telemetry/node_modules",
+    "../node_modules/@nuxt/eslint/runtime/server",
+    "../node_modules/@nuxt/eslint/dist/runtime/server",
     "../node_modules/@nuxt/devtools/runtime/server",
     "../node_modules/@nuxt/devtools/dist/runtime/server",
     "../node_modules/@nuxt/telemetry/runtime/server",

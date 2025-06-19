@@ -1,12 +1,12 @@
 {
     "footerAboutData": {
-        "logo": "/images/logo/dark-logo-160x48.png",
-        "address": "58 Howard Street #2 San Francisco, CA 941",
-        "telephone": "0123456789",
-        "email": "contact@example.com",
+        "logo": "/images/logo/aria-red.png",
+        "address": "5635 W. 96th St, Suite 300 Indianapolis, IN 46278",
+        "telephone": "317.733.9454",
+        "email": "labsupprot@ariadxs.com",
         "web": "www.example.com"
     },
-    "footerWidgetTitleOne": "IT Services",
+    "footerWidgetTitleOne": "Lab Services",
     "navListOne": [
         {
             "navTitle": "Managed IT",

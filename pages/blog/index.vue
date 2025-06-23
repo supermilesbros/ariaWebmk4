@@ -1,7 +1,7 @@
 <template>
     <div class="main-container">
         <Header />
-        <Breadcrumbs items="News" breadcrumbTitle="Newsroom" />
+        <Breadcrumbs items="Blogs" breadcrumbTitle="Blogs" />
         <BlogPageWrapper />
         <CtaThree />
         <Footer />

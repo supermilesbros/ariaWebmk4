@@ -1,8 +1,8 @@
 <template>
     <div class="footer-widget">
-        <div class="footer-widget__logo mb-30 footer-logo">
+        <div class="footer-widget__logo mb-30">
             <nuxt-link to="/">
-                <img :src="footerAbout.logo" class="footer-logo" alt="logo">
+                <img :src="footerAbout.logo" class="img-fluid" alt="logo">
             </nuxt-link>
         </div>
         <ul class="footer-widget__list">
@@ -13,6 +13,9 @@
             <li>
                 <a href="tel:123344556" class="hover-style-link text-black font-weight--bold">{{ footerAbout.telephone }}</a>
             </li>
+            <li>
+                <a href="https://hasthemes.com/" target="_blank" class="hover-style-link text-color-primary">{{ footerAbout.web }}</a>
+            </li>
         </ul>
     </div>
 </template>
@@ -22,10 +25,3 @@
         props: ['footerAbout']
     };
 </script>
-
-<style scoped>
-
-.footer-logo {
-    max-width: 90%;
-}
-</style>

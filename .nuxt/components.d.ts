@@ -57,7 +57,6 @@ interface _GlobalComponents {
     'HeroService': typeof import("../components/HeroService.vue")['default']
     'MobileNavMenu': typeof import("../components/MobileNavMenu.vue")['default']
     'Navigation': typeof import("../components/Navigation.vue")['default']
-    'NavigationTwo': typeof import("../components/NavigationTwo.vue")['default']
     'OffCanvasMobileMenu': typeof import("../components/OffCanvasMobileMenu.vue")['default']
     'PageHeader': typeof import("../components/PageHeader.vue")['default']
     'PreviewMobileNavMenu': typeof import("../components/PreviewMobileNavMenu.vue")['default']
@@ -179,7 +178,6 @@ interface _GlobalComponents {
     'LazyHeroService': LazyComponent<typeof import("../components/HeroService.vue")['default']>
     'LazyMobileNavMenu': LazyComponent<typeof import("../components/MobileNavMenu.vue")['default']>
     'LazyNavigation': LazyComponent<typeof import("../components/Navigation.vue")['default']>
-    'LazyNavigationTwo': LazyComponent<typeof import("../components/NavigationTwo.vue")['default']>
     'LazyOffCanvasMobileMenu': LazyComponent<typeof import("../components/OffCanvasMobileMenu.vue")['default']>
     'LazyPageHeader': LazyComponent<typeof import("../components/PageHeader.vue")['default']>
     'LazyPreviewMobileNavMenu': LazyComponent<typeof import("../components/PreviewMobileNavMenu.vue")['default']>
@@ -307,7 +305,6 @@ export const HeroResolution: typeof import("../components/HeroResolution.vue")['
 export const HeroService: typeof import("../components/HeroService.vue")['default']
 export const MobileNavMenu: typeof import("../components/MobileNavMenu.vue")['default']
 export const Navigation: typeof import("../components/Navigation.vue")['default']
-export const NavigationTwo: typeof import("../components/NavigationTwo.vue")['default']
 export const OffCanvasMobileMenu: typeof import("../components/OffCanvasMobileMenu.vue")['default']
 export const PageHeader: typeof import("../components/PageHeader.vue")['default']
 export const PreviewMobileNavMenu: typeof import("../components/PreviewMobileNavMenu.vue")['default']
@@ -429,7 +426,6 @@ export const LazyHeroResolution: LazyComponent<typeof import("../components/Hero
 export const LazyHeroService: LazyComponent<typeof import("../components/HeroService.vue")['default']>
 export const LazyMobileNavMenu: LazyComponent<typeof import("../components/MobileNavMenu.vue")['default']>
 export const LazyNavigation: LazyComponent<typeof import("../components/Navigation.vue")['default']>
-export const LazyNavigationTwo: LazyComponent<typeof import("../components/NavigationTwo.vue")['default']>
 export const LazyOffCanvasMobileMenu: LazyComponent<typeof import("../components/OffCanvasMobileMenu.vue")['default']>
 export const LazyPageHeader: LazyComponent<typeof import("../components/PageHeader.vue")['default']>
 export const LazyPreviewMobileNavMenu: LazyComponent<typeof import("../components/PreviewMobileNavMenu.vue")['default']>

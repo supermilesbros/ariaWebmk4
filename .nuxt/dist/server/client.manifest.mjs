@@ -1,1 +1,1 @@
-export { default } from "file:///Users/jaredmiles/Documents/Clients/Aria/ariawebmk4/ariaWebmk4/node_modules/@nuxt/vite-builder/dist/runtime/client.manifest.mjs"
+export { default } from "file:///C:/Users/Jared/Documents/Dev/aria/ariaWebmk4/node_modules/@nuxt/vite-builder/dist/runtime/client.manifest.mjs"

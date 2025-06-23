@@ -1,6 +1,10 @@
 {
 <<<<<<< HEAD
+<<<<<<< HEAD
   "date": "2025-06-21T00:55:50.005Z",
+=======
+  "date": "2025-06-11T02:48:03.738Z",
+>>>>>>> parent of 33144c8 (Updates)
 =======
   "date": "2025-06-11T02:48:03.738Z",
 >>>>>>> parent of 33144c8 (Updates)
@@ -14,9 +18,15 @@
   },
   "dev": {
 <<<<<<< HEAD
+<<<<<<< HEAD
     "pid": 55415,
     "workerAddress": {
       "socketPath": "/var/folders/fj/6hmmkdpd3h7cmwrpkckv5tg80000gn/T/nitro-worker-55415-1-1-3227.sock"
+=======
+    "pid": 30532,
+    "workerAddress": {
+      "socketPath": "\\\\.\\pipe\\nitro-worker-30532-1-1-314.sock"
+>>>>>>> parent of 33144c8 (Updates)
 =======
     "pid": 30532,
     "workerAddress": {
